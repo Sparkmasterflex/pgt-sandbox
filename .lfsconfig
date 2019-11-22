@@ -1,0 +1,6 @@
+ [lfs]
+ url = "http://github.com/Sparkmasterflex/pgt-sandbox.git"
+ batch = true
+ access = basic
+ [http]
+ sslverify = true

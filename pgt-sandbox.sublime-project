@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "Assets",
+      "file_exclude_patterns": [
+        "*.meta"
+      ],
+      "folder_exclude_patterns": [
+        "ExampleAssets",
+        "Materials",
+        "Presets",
+        "Settings"
+      ]
+		}
+	]
+}
