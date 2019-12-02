@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class InfinateTerrain : MonoBehaviour {
-    public const float maxViewDst = 4500;
+    public const float maxViewDst = 450;
     public Transform viewer;
     public Material mapMaterial;
 
